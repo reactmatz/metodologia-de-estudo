@@ -1,17 +1,21 @@
-# O daily challenge veio para mudar o modo em que voce aprende uma linguagem.
+# The daily challenge has come to change the way you learn a language.
 
 
+### How does this methodology work?
 
-### Como funciona esta metodologia ?
+This methodology is based on the principle found in the book "The Power of Habit" and I will give a brief explanation of how creating a repetition structure can be powerful for both learning to program efficiently and also for performing any other task in your day-to-day.
 
-Esta metodologia parte do principio encontrado no livro "O pode do habito" e vou dar uma breve explica de como cria uma estrutura de repeticao pode ser poderossimo tanto para aprender a programar de forma eficiente, como tambem para realizar qualquer outra tarefa no seu dia-dia.
+Habits are automated behaviors that occur as a result of a routine or pattern of thought. They are formed through repetition and can be modified through new routines and patterns of thought.
 
-Os hábitos são comportamentos automatizados que ocorrem como resultado de uma rotina ou padrão de pensamento. Eles são formados através da repetição e podem ser modificados através de novas rotinas e padrões de pensamento.
+When we perform an action repeatedly, the brain creates a neural pathway for that action. Over time, this action becomes automated and occurs more quickly and easily. For example, when we learn to drive, we need to think about each step in the process, but after a while, driving becomes a habit and we no longer need to think about each step.
 
-Quando realizamos uma ação repetidas vezes, o cérebro cria um caminho neural para essa ação. Com o tempo, essa ação se torna automatizada e ocorre de forma mais rápida e fácil. Por exemplo, quando aprendemos a dirigir, precisamos pensar em cada passo do processo, mas depois de algum tempo, dirigir se torna um hábito e não precisamos mais pensar em cada passo.
+Habits are formed through a sequence of three steps: the trigger, the routine, and the reward. The trigger is the stimulus that triggers the habit, such as seeing a can of soda. The routine is the action that is performed in response to the trigger, such as grabbing the can of soda and opening it. The reward is the positive result that we receive from the routine, such as the feeling of satisfaction or the pleasure of drinking the soda.
 
-Os hábitos são formados através de uma sequência de três etapas: o gatilho, a rotina e a recompensa. O gatilho é o estímulo que desencadeia o hábito, como ver uma lata de refrigerante. A rotina é a ação que é realizada como resposta ao gatilho, como pegar a lata de refrigerante e abri-la. A recompensa é o resultado positivo que recebemos da rotina, como a sensação de saciedade ou o prazer de beber o refrigerante.
+Accept reality:
+The first thing you must do to create consistency in programming and learning a language is to first accept that programming is an area that requires discipline and dedication, without consistency and making it your life, you will probably have difficulties in progressing, and you will walk at a turtle's pace, I myself study for a year and only now realized that I barely know how to manipulate the DOM, when I should be learning a framework and doing backend tests.
 
-### Arquitetura e organizacao: 
+Virtual detox:
+How much time do you dedicate to social networks? How much time do you lose watching videos on TikTok, watching photos and the lives of other people on Instagram, have you ever had the feeling of losing your day doing these things and when you realize you literally didn't do anything and procrastinated? And now is the time for you to unplug your phone and focus only on the terminal of your computer, seriously, do it now, turn off your phone or put it in airplane mode and hide it in your closet, you will thank me later.
 
-########### 1. O primeiro passo e organizar os exercicios de forma ordenada e com dificuldades diferentes, comece pelos cocneitos basicos da linguagem, funcoes e objetos, lacos e condicionais, tipos de dados e operadores logicos, e por fim crie exercicios basicos para fixar em sua mente a sintaxe e fazer com que sua memoria muscular crie uma digitacao agil e dinamica.
+Architecture and organization:
+The first step is to organize the exercises in an orderly manner and with different difficulties, start with the basic concepts of the language, functions and objects, loops and conditionals, data types and logical operators, and finally create basic exercises to fix in your mind the syntax and make your muscle memory create agile and dynamic typing."
