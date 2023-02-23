@@ -129,5 +129,12 @@ var carro = {
 // preto com 10 anos, que late ao ver um homem
 
 
+// crie uma funcao construtora
+
+// crie uma promise
+
+//crie um prototype da funcao construtora
+
+
 
 
